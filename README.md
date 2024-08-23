@@ -5,9 +5,9 @@ New York City's (NYC) Taxi & Limousine Commission (TLC) fills in the gaps left b
 In Progress.
 
 # Problem Statement
-In today's world of fierce digital competition, increasing the profitability of taxi services through analysis of consumer behavior and preference is a challenging task. **A solid understanding of operational dynamics and customer behaviour is essential to successfully navigate this difficulty.** Through more in-depth exploration of **taxi operations data**, we may identify more focused and precise solutions. To maximize operations and boost profitability in the taxi sector, it is critical to **comprehend client demand patterns, revenue, and elements that impact customer tips**. These are the following problems that we want to anaylze:
+In today's world of fierce digital competition, increasing the profitability of taxi services through analysis of consumer behavior and preference is a challenging task. **A solid understanding of operational dynamics and customer behaviour is essential to successfully navigate this difficulty.** Through more in-depth exploration of **taxi operations data**, we may identify more focused and precise solutions. To maximize operations and boost profitability in the taxi sector, it is critical to **comprehend client demand and revenue**. These are the following problems that we want to anaylze:
 
-**where are the taxi demand?**, **which brings most revenue?**, and **how to get more tips for driver?**.
+**where are the taxi demand?** and **which brings most revenue?**.
 
 # Goals
 The main objectives of studying consumer behavior and preferences in the taxi sector are to offer useful information to stakeholders so they may make strategic decisions and optimize operations. Among these objectives are provided below.
