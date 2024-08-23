@@ -13,7 +13,6 @@ In today's world of fierce digital competition, increasing the profitability of 
 The main objectives of studying consumer behavior and preferences in the taxi sector are to offer useful information to stakeholders so they may make strategic decisions and optimize operations. Among these objectives are provided below.
 1. Optimizing Taxi Fleet Distribution.
 2. Identifying Revenue Opportunities.
-3. Encouraging Customer Tips.
 
 
 
